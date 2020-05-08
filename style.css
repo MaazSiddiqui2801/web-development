@@ -1,0 +1,25 @@
+form{color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color : rgb(178, 75, 199); }
+    h1 {
+    color : purple ;
+font-style: oblique ;}
+    h2{text-align:center;}
+   img{display: block;
+margin-left: auto;
+margin-right: auto;}
+image{display: block;
+    margin-left: auto;
+    margin-right: auto;}
+    .main{
+        border: 2px solid red;
+        width: 300px;
+        min-height: 300px;
+        overflow: scroll;
+    }
+    h4{
+        background: rgb(226, 56, 212);
+    }
+    body{
+        background: rgb(216, 202, 228);
+    }
